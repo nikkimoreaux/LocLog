@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accuracies</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>Tracking off</string>
+			<key>mode</key>
+			<integer>0</integer>
+			<key>desired_accuracy</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>± 3 000 m</string>
+			<key>mode</key>
+			<integer>1</integer>
+			<key>desired_accuracy</key>
+			<integer>3000</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>500 m</string>
+			<key>mode</key>
+			<integer>2</integer>
+			<key>desired_accuracy</key>
+			<integer>500</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>100 m</string>
+			<key>mode</key>
+			<integer>2</integer>
+			<key>desired_accuracy</key>
+			<integer>100</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>30 m</string>
+			<key>mode</key>
+			<integer>2</integer>
+			<key>desired_accuracy</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>10 m</string>
+			<key>mode</key>
+			<integer>2</integer>
+			<key>desired_accuracy</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Best | Always-on GPS</string>
+			<key>mode</key>
+			<integer>3</integer>
+			<key>desired_accuracy</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>LocLog_URL</key>
+	<string>http://diplodoc.us/loclog/</string>
+</dict>
+</plist>
